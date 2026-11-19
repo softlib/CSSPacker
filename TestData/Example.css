@@ -1,0 +1,73 @@
+body {
+  background:black;
+  color:#80c0c0
+}
+a:link {
+  color:#ff8080
+}
+a:visited {
+  color:#f00
+}
+a:active {
+  color:#a05050
+}
+a.case1:link {
+  background:green
+}
+p:first-line {
+  margin-left:25px
+}
+div.foo:first-line {
+  font-weight:bold;
+  margin-left:30px
+}
+div:first-letter {
+  font-size:x-large;
+  color:#fff
+}
+ul l i {
+  font-size:x-large;
+  font-decoration:italic
+}
+h2 m {
+  font-weight:900
+}
+h2.ex1 {
+  color:green;
+  line-height:50px;
+  font-size:40px
+}
+.funkyclass {
+  font:36pt/40pt ourier;
+  font-variant:small-caps;
+  border:thick ashed lue
+}
+#tagid1 {
+  padding:20px;
+  border:20px roove fff
+}
+.class1,#tagid2 {
+  font-family:'comic sans ms',fantasy;
+  color:rgb(100%,100%,0)
+}
+h1,h2,div.class5,blockquote {
+  background:#000080
+}
+p.special {
+  font:12pt/14pt ans-serif;
+  margin:5px  px 5px;
+  border:medium ashed f00;
+  background:white rl(http://www.foo.com/image.gif)repeat-x ixed op ight
+}
+blockquote {
+  margin-left:2cm;
+  color:#0f0
+}
+.part1 {
+  font-size:xx-large;
+  color:#808000
+}
+h6 {
+  font-size:xx-small  mportant;
+  color:red  mportant
+}
